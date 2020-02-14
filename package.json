@@ -2,9 +2,9 @@
   "name": "babel-plugin-dotenv-import",
   "version": "2.0.0",
   "description": "Load environment variables using import statements.",
-  "repository": "github:tusbar/babel-plugin-dotenv-import",
-  "homepage": "https://github.com/tusbar/babel-plugin-dotenv-import",
-  "bugs": "https://github.com/tusbar/babel-plugin-dotenv-import/issues",
+  "repository": "github:k0rdan/babel-plugin-dotenv-import",
+  "homepage": "https://github.com/k0rdan/babel-plugin-dotenv-import",
+  "bugs": "https://github.com/k0rdan/babel-plugin-dotenv-import/issues",
   "main": "index.js",
   "scripts": {
     "test": "jest"
