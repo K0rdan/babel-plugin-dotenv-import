@@ -1,7 +1,8 @@
 {
-  "name": "babel-plugin-dotenv-import",
+  "name": "@k0rdan/babel-plugin-dotenv-import",
   "version": "2.0.0",
   "description": "Load environment variables using import statements.",
+  "module": "",
   "repository": "github:k0rdan/babel-plugin-dotenv-import",
   "homepage": "https://github.com/k0rdan/babel-plugin-dotenv-import",
   "bugs": "https://github.com/k0rdan/babel-plugin-dotenv-import/issues",
